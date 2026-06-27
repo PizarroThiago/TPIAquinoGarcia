@@ -6,7 +6,7 @@ import axios from 'axios';
 const products = [
   { id: 1, name: "Cafe", price: 1200 },
   { id: 2, name: "Cappuccino", price: 150 },
-  { id: 3, name: "Cafe con Leche", price: 50 },
+  { id: 3, name: "Cafe con Leche xd", price: 50 },
 ]
 
 function App() {
